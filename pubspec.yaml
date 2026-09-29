@@ -1,0 +1,41 @@
+name: pwd_registry
+description: Digital PWD Registry and Monitoring System - District IV Sibalom, Antique
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase (free tier only)
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+
+  # State management
+  provider: ^6.1.2
+
+  # Charts
+  fl_chart: ^0.69.0
+
+  # PDF export (client-side, no server needed)
+  pdf: ^3.11.1
+  printing: ^5.13.2
+
+  # Excel export (client-side)
+  excel: ^4.0.2
+
+  # Date formatting
+  intl: ^0.19.0
+
+  # Unique ID generation
+  uuid: ^4.5.1
+
+  # URL launcher (to open Google Drive links)
+  url_launcher: ^6.3.0
+
+flutter:
+  uses-material-design: true

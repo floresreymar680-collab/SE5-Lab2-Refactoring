@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632278936107",
+    "project_id": "pwd-registry-sibalom-8ecd9",
+    "storage_bucket": "pwd-registry-sibalom-8ecd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632278936107:android:155e113a06f81196e8186e",
+        "android_client_info": {
+          "package_name": "com.sibalom.district4.pwd_registry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0QzbGGF7GLcCW8lsET651UJIKLNGbRro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
